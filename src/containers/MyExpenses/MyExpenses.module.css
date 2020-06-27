@@ -1,0 +1,25 @@
+@media(min-width: 768px) {
+    .CardDeck {
+        margin-top: 2rem;
+        margin-left: 15rem;
+        margin-right: 15rem;
+    }
+}
+
+@media(max-width: 768px) {
+    .CardDeck {
+        margin-left: 1rem;
+    }
+}
+
+@media(min-width: 768px) {
+    .EDBtn {
+        margin-left: 14rem;
+    }
+}
+
+@media(max-width: 768px) {
+    .EDBtn {
+        margin-left: 5rem;
+    }
+}

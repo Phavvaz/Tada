@@ -1,0 +1,180 @@
+@media(min-width: 768px) {
+
+  .LoginForm,
+  .SignUpForm,
+  .AddExpenseTitleForm,
+  .AddExpenseForm {
+    margin-top: 5rem;
+    margin-left: 25rem;
+  }
+}
+
+@media(min-width: 768px) {
+
+  .ExpenseCard {
+    margin-top: 3rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+  }
+}
+
+@media(min-width: 768px) {
+
+  .ExpenseCardInfo {
+
+    margin-left: 5rem;
+  }
+}
+
+@media(max-width: 768px) {
+
+  .LoginForm,
+  .SignUpForm,
+  .AddExpenseTitleForm,
+  .AddExpenseForm,
+  .ExpenseCard {
+    margin-top: 5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+
+
+@media(min-width: 768px) {
+
+  .LogInButton,
+  .SignUpButton,
+  .Save {
+    margin-left: 27.8rem;
+    margin-top: 1rem;
+  }
+}
+
+@media(min-width: 768px) {
+
+  .AddExpenseTitleBtn {
+    margin-left: 27.2rem;
+    margin-top: 1rem;
+  }
+}
+
+@media(min-width: 768px) {
+
+  .AddExpenseBtn {
+    margin-left: 26.5rem;
+    margin-top: 1rem;
+  }
+}
+
+@media(min-width: 768px) {
+  .ExpenseCardBtn {
+    margin-left: 29rem;
+    margin-top: 1rem;
+  }
+}
+
+@media(max-width: 768px) {
+
+  .LogInButton,
+  .SignUpButton,
+  .Save,
+  .AddExpenseTitleBtn,
+  .AddExpenseBtn,
+  .ExpenseCardBtn {
+    margin-left: 6rem;
+    margin-top: 1rem;
+  }
+}
+
+.LogInButton,
+.SignUpButton,
+.Save,
+.AddExpenseTitleBtn,
+.AddExpenseBtn,
+.ExpenseCardBtn {
+  text-align: center;
+}
+
+@media(min-width: 768px) {
+
+  .LoginInfo,
+  .SignupInfo {
+    margin-left: 25rem;
+    margin-top: 1.5rem
+  }
+}
+
+@media(max-width: 768px) {
+
+  .LoginInfo,
+  .SignupInfo {
+    margin-left: 1rem;
+    margin-top: 1.5rem
+  }
+}
+
+@media(min-width: 768px) {
+  .SignupRedirectBtn {
+    margin-left: -0.4rem;
+    margin-top: -0.28rem;
+  }
+}
+
+@media(min-width: 768px) {
+  .SignupRedirectBtn:hover {
+    margin-left: -0.4rem;
+    margin-top: -0.28rem;
+    color: green;
+  }
+}
+
+@media(max-width: 768px) {
+  .SignupRedirectBtn {
+    margin-left: -0.4rem;
+    margin-top: -0.28rem;
+  }
+}
+
+@media(max-width: 768px) {
+  .SignupRedirectBtn:hover {
+    margin-left: -0.4rem;
+    margin-top: -0.28rem;
+    color: green;
+  }
+}
+
+@media(min-width: 768px) {
+  .LoginRedirectBtn {
+    margin-left: -0.4rem;
+    margin-top: -0.4rem;
+  }
+}
+
+@media(min-width: 768px) {
+  .LoginRedirectBtn:hover {
+    margin-left: -0.4rem;
+    margin-top: -0.4rem;
+    color: green;
+  }
+}
+
+@media(max-width: 768px) {
+  .LoginRedirectBtn {
+    margin-left: -0.4rem;
+    margin-top: -0.4rem;
+  }
+}
+
+@media(max-width: 768px) {
+  .LoginRedirectBtn:hover {
+    margin-left: -0.4rem;
+    margin-top: -0.4rem;
+    color: green;
+  }
+}
+
+.Expenses {
+  margin-left: 1rem;
+  margin-top: 20px;
+}
