@@ -11,15 +11,9 @@
   margin-left: 7rem;
   margin-top: 2rem;
   width: 100px;
-  height: 100px
+  height: 100px;
 }
 
 .NavItem:hover {
-  color: orange
+  color: orange;
 }
-
-/* .FooterImg {
-  margin-top: 1rem;
-  width: 1400px;
-  height: 400px
-} */
